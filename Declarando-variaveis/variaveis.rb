@@ -1,3 +1,3 @@
 class Carro
-  @@marcas = [ "Carro", "Casa", "Moto", "Gato" ]
+  @@cor = [ "Preto", "Vermelho", "Azul", "Branco" ]
 end
